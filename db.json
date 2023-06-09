@@ -1,0 +1,2447 @@
+[
+  {
+    "ref": "412d67dc-949b-409e-ab04-b3b4e87e06b4",
+    "keyword": "290236b1d481a790a200ea6e94b2122a",
+    "answer": "sigesbot",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "c5ec9969bd663945d9b54dda57567456"
+  },
+  {
+    "ref": "ans_1ccac445-10b2-46b5-9e4a-79abb62b3130",
+    "keyword": "key_a4c7fd3a-39db-49ca-89d8-a25b7aebf1b4",
+    "answer": "Gracias por comunicarte con Sistema SIGES.\nElija el numero de la opción deseada\n1. Generar un ticket de soporte\n2. Salir",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "457fa91ec80cfb2adb889c4020ad108a",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "2e32f2a0-920f-4dd5-9159-4f7e5cec66fd",
+    "keyword": "457fa91ec80cfb2adb889c4020ad108a",
+    "answer": "1",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_adfa8b94-b3cb-4e00-bbc5-4f2e1923fca2",
+    "keyword": "ans_1ccac445-10b2-46b5-9e4a-79abb62b3130",
+    "answer": "Elija desde donde necesita soporte\n1. YPF\n2. SHELL\n3. AXION\n4. PUMA\n5. GULF\n6. REFINOR\n7. EST. BLANCA\n8. OTRO",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "2e610c1029ed5aff622520f3117fb49c",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "ee8bdfb4-4041-4dc9-9ac5-4a30f4d3cc59",
+    "keyword": "2e610c1029ed5aff622520f3117fb49c",
+    "answer": "1",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_e2de01d4-1219-4972-9ad4-75a6280acbbd",
+    "keyword": "ans_adfa8b94-b3cb-4e00-bbc5-4f2e1923fca2",
+    "answer": "Elija en que area se encuentra el puesto de trabajo donde necesita soporte\n1. Playa\n2. Tienda\n3. Boxes\n4. Administracion",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b488461a72ff6adc35d2799c9eab3f8d",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "87bac867-7e3f-4f24-9893-2e41ff56847a",
+    "keyword": "b488461a72ff6adc35d2799c9eab3f8d",
+    "answer": "1",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "9818696e-b729-4e4a-8b8f-8247289f6895",
+    "answer": "Ingrese su numero de APIES",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "5493512275549",
+    "refSerialize": "d202b3efcd804f64d23682b367dc2ffc"
+  },
+  {
+    "ref": "ans_89666ed0-e914-4a85-a7d0-b6ab26587483",
+    "keyword": "ans_e2de01d4-1219-4972-9ad4-75a6280acbbd",
+    "answer": "Si no lo conoce, solicitarlo a un operador de SIGES",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "c268cb48fec18ddcbbc26cf225b2fef0",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "2a6da711-ae8f-42cf-b18f-6606184e54d8",
+    "keyword": "c268cb48fec18ddcbbc26cf225b2fef0",
+    "answer": "test",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "0556c62fd3fc9af2f3d0e15ec6812275"
+  },
+  {
+    "ref": "ans_b64e4634-a1ad-4649-9130-39c6450e703d",
+    "keyword": "ans_89666ed0-e914-4a85-a7d0-b6ab26587483",
+    "answer": "Verificando",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "3e2ea16bf574bd0c7002af614333a451",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "9e019d1c-6179-4166-ab56-0c16323bbf20",
+    "answer": "Elija el número del puesto de trabajo donde necesita soporte",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "5493512275549",
+    "refSerialize": "cfd15b0f4b31581a0fdb18ea65e0a469"
+  },
+  {
+    "ref": "2e2ec7e6-e47d-433f-955e-7c7301dc6dc1",
+    "answer": "Si no lo sabe o ninguno es correcto, envíe \"0\"",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "5493512275549",
+    "refSerialize": "302938d4cef96e953cbddc92b7917c46"
+  },
+  {
+    "ref": "ab16901a-1335-4054-8a61-5ddaeb896286",
+    "answer": "1 - Playa 1",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "5493512275549",
+    "refSerialize": "a8dc271d98c9fd4e9ae5cb34a64c90dd"
+  },
+  {
+    "ref": "055e8145-4587-422d-910d-db4bb39ad557",
+    "answer": "2 - Playa 2",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "5493512275549",
+    "refSerialize": "2497a772cdfcba327ff56cc6edf857c6"
+  },
+  {
+    "ref": "4128aa9a-5827-45ed-a05a-d0bf69651746",
+    "answer": "3 - Playa 3",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "5493512275549",
+    "refSerialize": "8f8dcd40c908937acbfc95c5029e32f0"
+  },
+  {
+    "ref": "6b958d35-8b13-4379-99a5-f8f040138b03",
+    "answer": "4 - test2000",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "5493512275549",
+    "refSerialize": "6bde061266b9aa544674238978010c04"
+  },
+  {
+    "ref": "e23c4c94-4101-4f68-8953-145325add30c",
+    "keyword": "3e2ea16bf574bd0c7002af614333a451",
+    "answer": "1",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_f1f36a11-71fc-419e-baf8-05869fb275f3",
+    "keyword": "ans_b64e4634-a1ad-4649-9130-39c6450e703d",
+    "answer": "Elija el numero del problema que tiene\n1. Despachos CIO\n2. Aplicaciones\n3. Impresora Fiscal / Comandera\n4. Impresora Común / Oficina\n5. Sistema SIGES\n6. Libro IVA\n7. Servidor",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [
+        {
+          "ref": "key_de6aa4a0-a9eb-4d52-9aa7-d70bc6ce6f59",
+          "keyword": "5",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "660d6f380cd3d2aa67431f161ba4eccf"
+        },
+        {
+          "ref": "ans_cd4727ee-aeaa-496d-a8c0-6017dbdec256",
+          "keyword": "key_de6aa4a0-a9eb-4d52-9aa7-d70bc6ce6f59",
+          "answer": "Elija el origen del problema\n1. Facturación\n2. Cierre de turno\n3. Informes\n4. Otro",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "ecc1fe0b603a80400f29850ee713e1e5"
+        },
+        {
+          "ref": "ans_89263e95-7f91-42b3-9f61-1b5dc6ab4782",
+          "keyword": "ans_cd4727ee-aeaa-496d-a8c0-6017dbdec256",
+          "answer": "Describa el problema por escrito o adjunte un AUDIO",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "093240bc3aa6472d812345d7e794d7c7"
+        },
+        {
+          "ref": "ans_a15f1e50-2673-4ebd-abd3-edab3e3478dc",
+          "keyword": "ans_89263e95-7f91-42b3-9f61-1b5dc6ab4782",
+          "answer": "Si desea, puede adjuntar hasta 3 fotos\nAdjunte la foto 1\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "78dba70d2b804bee6540b647872a6f5a"
+        },
+        {
+          "ref": "ans_c65fdae7-d602-44ea-92d3-4d9cd9eba25c",
+          "keyword": "ans_a15f1e50-2673-4ebd-abd3-edab3e3478dc",
+          "answer": "Adjunte la foto 2\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "b0895fb69db5ad7cfa4bc326e5d26e05"
+        },
+        {
+          "ref": "ans_4933499f-3edf-4669-9593-1eaa94b362d9",
+          "keyword": "ans_c65fdae7-d602-44ea-92d3-4d9cd9eba25c",
+          "answer": "Adjunte la foto 3\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "8801a5f62a7ddad21affe189835b10e9"
+        },
+        {
+          "ref": "ans_ff2833d3-2ebb-4c73-b540-29c2f3e7c82c",
+          "keyword": "ans_4933499f-3edf-4669-9593-1eaa94b362d9",
+          "answer": "Que nivel de urgencia le daria a este ticket\n1. Bajo\n2. Medio\n3. Alto",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "36a81ace989017fe2b6d5e68ab364184"
+        },
+        {
+          "ref": "ans_b1f355d2-cbc0-4f75-89a0-8f317baadf57",
+          "keyword": "ans_ff2833d3-2ebb-4c73-b540-29c2f3e7c82c",
+          "answer": "Elija la opcion deseada\n1. Enviar ticket\n2. Cancelar ticket",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "3e96965ea3d50eb3c55ef41652ab061d"
+        },
+        {
+          "ref": "key_28a542ae-ef05-4f47-9b63-69b4cc945e5d",
+          "keyword": "3",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "741cd7b8654e06cc47783fa3ba233c53"
+        },
+        {
+          "ref": "ans_54a4a06c-0a12-4ec7-8a3b-860c096e8a04",
+          "keyword": "key_28a542ae-ef05-4f47-9b63-69b4cc945e5d",
+          "answer": "Elija la opcion deseada\n1. Soporte para impresora fiscal\n2. Instalar una impresora fiscal",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "d200b939c2a601f40f551bd3982495fe"
+        },
+        {
+          "ref": "ans_fa94c609-60e4-4634-91e6-3a7ce8bcccbc",
+          "keyword": "ans_54a4a06c-0a12-4ec7-8a3b-860c096e8a04",
+          "answer": "Aqui puede agregar informacion. Si conoce marca / modelo de impresora y/o si se encuentra conectada y con que tipo de cable, indiquelo.\nEscriba o envie un AUDIO\nDe lo contrario escriba NO",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "9b74ac2f8b2332a69cbefc221944066c"
+        },
+        {
+          "ref": "ans_1a9a1fe4-ae49-4621-9d60-b71ceee27e4e",
+          "keyword": "ans_fa94c609-60e4-4634-91e6-3a7ce8bcccbc",
+          "answer": "Si desea, puede adjuntar hasta 3 fotos\nAdjunte la foto 1\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "a8c21f4e9f1c1df4469b81a0d1deac48"
+        },
+        {
+          "ref": "ans_283e54c6-0506-4451-9ad7-c15181658f48",
+          "keyword": "ans_1a9a1fe4-ae49-4621-9d60-b71ceee27e4e",
+          "answer": "Adjunte la foto 2\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "51a1567fe7ace2112a027fc41970fcfa"
+        },
+        {
+          "ref": "ans_7d9d0bbe-a8ef-4fec-81de-deb3636a41b5",
+          "keyword": "ans_283e54c6-0506-4451-9ad7-c15181658f48",
+          "answer": "Adjunte la foto 3\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "6a29360e63699c286c68124f2eef0c98"
+        },
+        {
+          "ref": "ans_1ed286f4-171e-40e7-966e-8afc9d8472d1",
+          "keyword": "ans_7d9d0bbe-a8ef-4fec-81de-deb3636a41b5",
+          "answer": "Que nivel de urgencia le daria a este ticket\n1. Bajo\n2. Medio\n3. Alto",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "e213f1d3905d2048e787aeafde7585c4"
+        },
+        {
+          "ref": "ans_12b59037-5f96-4760-be74-590e5f0d3549",
+          "keyword": "ans_1ed286f4-171e-40e7-966e-8afc9d8472d1",
+          "answer": "Elija la opcion deseada\n1. Enviar ticket\n2. Cancelar ticket",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "37f224a3a7050551040c81c2d39bc211"
+        },
+        {
+          "ref": "key_5841f586-5c26-404a-bae5-b7861ed415e6",
+          "keyword": "4",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "fc09f52170be47fcb14a1cee9c5d3c52"
+        },
+        {
+          "ref": "ans_24c12aa8-bd58-4418-9c0c-0ec761377fd1",
+          "keyword": "key_5841f586-5c26-404a-bae5-b7861ed415e6",
+          "answer": "Elija la opcion deseada\n1. Soporte para impresora\n2. Instalar una impresora",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "dba83a379ccffa770c074cc04d2b1909"
+        },
+        {
+          "ref": "ans_c2fc5f62-5d43-4af3-891b-0768159f8d20",
+          "keyword": "ans_24c12aa8-bd58-4418-9c0c-0ec761377fd1",
+          "answer": "Aqui puede agregar informacion. Si conoce marca / modelo de impresora y/o si se encuentra conectada, indiquelo.\nEscriba o envie un AUDIO\nDe lo contrario escriba NO",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "00d72cd34cb24a77d79417c8768211e6"
+        },
+        {
+          "ref": "ans_373dd0db-10b9-4673-9e57-7829ac33029d",
+          "keyword": "ans_c2fc5f62-5d43-4af3-891b-0768159f8d20",
+          "answer": "Si desea, puede adjuntar hasta 3 fotos\nAdjunte la foto 1\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "a931a6547c658ec40dcee716700d87fb"
+        },
+        {
+          "ref": "ans_7823db89-d2fc-4596-88cf-e0079ad8f06d",
+          "keyword": "ans_373dd0db-10b9-4673-9e57-7829ac33029d",
+          "answer": "Adjunte la foto 2\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "c17117468ccbfc16ab74e812d08664de"
+        },
+        {
+          "ref": "ans_bf915bec-828f-4064-868b-5671bef9c8f0",
+          "keyword": "ans_7823db89-d2fc-4596-88cf-e0079ad8f06d",
+          "answer": "Adjunte la foto 3\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "06b4cf3376a5a8f6b88886960adf0974"
+        },
+        {
+          "ref": "ans_b15daf5c-794c-46a2-94d4-8cfa84b0a215",
+          "keyword": "ans_bf915bec-828f-4064-868b-5671bef9c8f0",
+          "answer": "Que nivel de urgencia le daria a este ticket\n1. Bajo\n2. Medio\n3. Alto",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "2f69d0bf994c9d51872ff2f4f5f26624"
+        },
+        {
+          "ref": "ans_748bbe3d-f5e7-40ae-985f-fed91d2b43f4",
+          "keyword": "ans_b15daf5c-794c-46a2-94d4-8cfa84b0a215",
+          "answer": "Elija la opcion deseada\n1. Enviar ticket\n2. Cancelar ticket",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "078b8d4493226f027b0f5e05488da291"
+        },
+        {
+          "ref": "key_d231ee17-de9e-4155-8a80-b864f0ab79e8",
+          "keyword": "1",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "065e0005da6e5c278a53691e53b48955"
+        },
+        {
+          "ref": "ans_7e1ee269-3e8c-4518-b3c0-aaaac830a0b6",
+          "keyword": "key_d231ee17-de9e-4155-8a80-b864f0ab79e8",
+          "answer": "Describa el problema por escrito o adjunte un AUDIO",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "d98ca342a7147660c3058e4a17752bdb"
+        },
+        {
+          "ref": "ans_f033b6b7-55c0-43c4-bf84-58ff136ed371",
+          "keyword": "ans_7e1ee269-3e8c-4518-b3c0-aaaac830a0b6",
+          "answer": "Si desea, puede adjuntar hasta 3 fotos\nAdjunte la foto 1\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "f820b313c7017a36c48b13348232fe60"
+        },
+        {
+          "ref": "ans_918eb9eb-7c9d-4048-8d7f-2db293489d8d",
+          "keyword": "ans_f033b6b7-55c0-43c4-bf84-58ff136ed371",
+          "answer": "Adjunte la foto 2\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "fa60a77a0838b4f06bd4e51d3c625480"
+        },
+        {
+          "ref": "ans_9a8bc670-680e-43fe-b487-6464fcaed9d5",
+          "keyword": "ans_918eb9eb-7c9d-4048-8d7f-2db293489d8d",
+          "answer": "Adjunte la foto 3\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "3bcff72a048ffc4583f3e5afff7bcc6c"
+        },
+        {
+          "ref": "ans_e4286bb5-8129-48e2-97a9-516b12364c02",
+          "keyword": "ans_9a8bc670-680e-43fe-b487-6464fcaed9d5",
+          "answer": "Que nivel de urgencia le daria a este ticket\n1. Bajo\n2. Medio\n3. Alto",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "033c2188d0935f1583c7a6fd103eaf2d"
+        },
+        {
+          "ref": "ans_646c6d35-a516-4016-9505-d76d8a5c39c3",
+          "keyword": "ans_e4286bb5-8129-48e2-97a9-516b12364c02",
+          "answer": "Elija la opcion deseada\n1. Enviar ticket\n2. Cancelar ticket",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "8274aa6a27ce5e39775d47325ecce100"
+        },
+        {
+          "ref": "key_19d51e0c-7cad-4b30-bc31-398813140c95",
+          "keyword": "7",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "d557e5600097df00d97951283f83f6bd"
+        },
+        {
+          "ref": "ans_e8afa293-5874-4bb2-ae81-acd36881a6ca",
+          "keyword": "key_19d51e0c-7cad-4b30-bc31-398813140c95",
+          "answer": "Describa el problema por escrito o adjunte un AUDIO",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "9be20c2d34c5f9388bd01a2d23746ca8"
+        },
+        {
+          "ref": "ans_5d825385-659d-44e1-a031-5395a2d4368b",
+          "keyword": "ans_e8afa293-5874-4bb2-ae81-acd36881a6ca",
+          "answer": "Si desea, puede adjuntar hasta 3 fotos\nAdjunte la foto 1\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "de8a703af30d710809b911def25bab06"
+        },
+        {
+          "ref": "ans_3d6dc94e-adc5-4c32-a757-5e10a380dd06",
+          "keyword": "ans_5d825385-659d-44e1-a031-5395a2d4368b",
+          "answer": "Adjunte la foto 2\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "30be168d313c1d94092d62fb72f520dc"
+        },
+        {
+          "ref": "ans_f0c85dd8-a0b4-4877-88a1-5d255682ceff",
+          "keyword": "ans_3d6dc94e-adc5-4c32-a757-5e10a380dd06",
+          "answer": "Adjunte la foto 3\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "4d1a2996af335f8d205b0cf6820b21ac"
+        },
+        {
+          "ref": "ans_bdd23487-b36a-4c08-a382-eccc685dcb3a",
+          "keyword": "ans_f0c85dd8-a0b4-4877-88a1-5d255682ceff",
+          "answer": "Que nivel de urgencia le daria a este ticket\n1. Bajo\n2. Medio\n3. Alto",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "f7201acff24e12309d498b0bd1fcc068"
+        },
+        {
+          "ref": "ans_0e1233ea-b42a-4df5-9182-be09c5752f5b",
+          "keyword": "ans_bdd23487-b36a-4c08-a382-eccc685dcb3a",
+          "answer": "Elija la opcion deseada\n1. Enviar ticket\n2. Cancelar ticket",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "0115cd0a6cb315993027495856f60874"
+        },
+        {
+          "ref": "key_d6402fcd-9e04-48bb-9355-763391fec158",
+          "keyword": "6",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "ae093091123de34d8570657f16bd7343"
+        },
+        {
+          "ref": "ans_2612c4d1-cbca-4d23-9147-a182a8dee7e9",
+          "keyword": "key_d6402fcd-9e04-48bb-9355-763391fec158",
+          "answer": "Elija donde se encuentra el inconveniente\n1. Libro IVA Compra\n2. Libro IVA Venta",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "06f09e0ffab96f321c94126a04270c69"
+        },
+        {
+          "ref": "ans_534cec16-17c6-403e-bcfc-e3dc28c33f2f",
+          "keyword": "ans_2612c4d1-cbca-4d23-9147-a182a8dee7e9",
+          "answer": "Indique el período en el cual hay un inconveniente",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "4bcab1f3e76265c62df39ce099418b86"
+        },
+        {
+          "ref": "ans_9f70ce46-d951-4fdc-a123-c11e84f66c9c",
+          "keyword": "ans_534cec16-17c6-403e-bcfc-e3dc28c33f2f",
+          "answer": "Describa el problema por escrito o adjunte un AUDIO",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "398df31fb837e439703bf57e24e75670"
+        },
+        {
+          "ref": "ans_d54c2044-04f7-44c8-a6b2-3d982fcdf61b",
+          "keyword": "ans_9f70ce46-d951-4fdc-a123-c11e84f66c9c",
+          "answer": "Si desea, puede adjuntar hasta 3 fotos\nAdjunte la foto 1\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "ac65c54479a3bfdde12ec2e94135c6e1"
+        },
+        {
+          "ref": "ans_daa298ec-98bb-4f27-995c-70384081e576",
+          "keyword": "ans_d54c2044-04f7-44c8-a6b2-3d982fcdf61b",
+          "answer": "Adjunte la foto 2\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "dff99ec848a92d3ee6850129e6f12486"
+        },
+        {
+          "ref": "ans_6328364f-f407-464d-bdb4-2faf3335ef8e",
+          "keyword": "ans_daa298ec-98bb-4f27-995c-70384081e576",
+          "answer": "Adjunte la foto 3\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "39b1c3875348e0d490a96ff338c96b83"
+        },
+        {
+          "ref": "ans_7e13fa4b-bf55-42ca-b2d5-f6fb20ccefed",
+          "keyword": "ans_6328364f-f407-464d-bdb4-2faf3335ef8e",
+          "answer": "Que nivel de urgencia le daria a este ticket\n1. Bajo\n2. Medio\n3. Alto",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "a873e42299aea816bd24f1fa1ec47420"
+        },
+        {
+          "ref": "ans_a9be723c-c82f-4824-978f-8def039f5ff6",
+          "keyword": "ans_7e13fa4b-bf55-42ca-b2d5-f6fb20ccefed",
+          "answer": "Elija la opcion deseada\n1. Enviar ticket\n2. Cancelar ticket",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "b2eb9b77a12107748c6a3201b4c5edce"
+        },
+        {
+          "ref": "key_54d21bbb-b251-4bcc-88d4-30b9d55a2421",
+          "keyword": "2",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "900c9aa0094bfcca4a316ec66236e2fc"
+        },
+        {
+          "ref": "ans_7e84a3a8-e9fa-46e2-ad2d-c11f358c9933",
+          "keyword": "key_54d21bbb-b251-4bcc-88d4-30b9d55a2421",
+          "answer": "Elija en que aplicación esta teniendo el inconveniente\n1. App YPF\n2. Mercado Pago\n3. Todas las aplicaciones",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "c523ca095ae58f307734b7a0f72fb7e4"
+        },
+        {
+          "ref": "ans_945d00f6-e452-4ac0-8269-84921da1273c",
+          "keyword": "ans_7e84a3a8-e9fa-46e2-ad2d-c11f358c9933",
+          "answer": "Describa el problema por escrito o adjunte un AUDIO",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "f51bc2a6fb76117cc22cdf2798ae29a9"
+        },
+        {
+          "ref": "ans_d3f78187-5497-4d50-a51a-bd7dac6b86cd",
+          "keyword": "ans_945d00f6-e452-4ac0-8269-84921da1273c",
+          "answer": "Si desea, puede adjuntar hasta 3 fotos\nAdjunte la foto 1\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "ec76f7e337ab6bfae9b647c7c14d4467"
+        },
+        {
+          "ref": "ans_96b072d4-c078-4328-af3a-4996a57193cd",
+          "keyword": "ans_d3f78187-5497-4d50-a51a-bd7dac6b86cd",
+          "answer": "Adjunte la foto 2\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "30ec82bdd9c7b28f2526a113b194295c"
+        },
+        {
+          "ref": "ans_2163f9cd-2d93-4ee2-af3b-189ab73893f7",
+          "keyword": "ans_96b072d4-c078-4328-af3a-4996a57193cd",
+          "answer": "Adjunte la foto 3\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "54c3dbb5b7f1e91db38f29f659f4a5f5"
+        },
+        {
+          "ref": "ans_35087b1f-5d3c-413e-9171-27168080b185",
+          "keyword": "ans_2163f9cd-2d93-4ee2-af3b-189ab73893f7",
+          "answer": "Que nivel de urgencia le daria a este ticket\n1. Bajo\n2. Medio\n3. Alto",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "b70a79ab2042061598d6bc0b90b31815"
+        },
+        {
+          "ref": "ans_f607a0e5-6975-4858-9c4d-32c167ce2792",
+          "keyword": "ans_35087b1f-5d3c-413e-9171-27168080b185",
+          "answer": "Elija la opcion deseada\n1. Enviar ticket\n2. Cancelar ticket",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "a20da83752677a6f68be812c99070572"
+        }
+      ],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "c8aac429d3355a4590fca973cfb7b21d",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "0c076b57-c0db-4d3a-ae00-955561aff701",
+    "keyword": "c8aac429d3355a4590fca973cfb7b21d",
+    "answer": "1",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_7e1ee269-3e8c-4518-b3c0-aaaac830a0b6",
+    "keyword": "key_d231ee17-de9e-4155-8a80-b864f0ab79e8",
+    "answer": "Describa el problema por escrito o adjunte un AUDIO",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "d98ca342a7147660c3058e4a17752bdb",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "7a920b9a-2172-4905-80c7-37b743b36f83",
+    "keyword": "d98ca342a7147660c3058e4a17752bdb",
+    "answer": "0",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "8f2014815c38046ebbfffe3ac4f3f41c"
+  },
+  {
+    "ref": "ans_f033b6b7-55c0-43c4-bf84-58ff136ed371",
+    "keyword": "ans_7e1ee269-3e8c-4518-b3c0-aaaac830a0b6",
+    "answer": "Si desea, puede adjuntar hasta 3 fotos\nAdjunte la foto 1\nDe lo contrario envíe \"0\".",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f820b313c7017a36c48b13348232fe60",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "50616040-f402-418b-9e7e-f4eaa7809c23",
+    "keyword": "f820b313c7017a36c48b13348232fe60",
+    "answer": "0",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "8f2014815c38046ebbfffe3ac4f3f41c"
+  },
+  {
+    "ref": "ans_918eb9eb-7c9d-4048-8d7f-2db293489d8d",
+    "keyword": "ans_f033b6b7-55c0-43c4-bf84-58ff136ed371",
+    "answer": "Adjunte la foto 2\nDe lo contrario envíe \"0\".",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "fa60a77a0838b4f06bd4e51d3c625480",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "f63f5a81-f6ed-42cc-9e31-63911f0a20b1",
+    "keyword": "fa60a77a0838b4f06bd4e51d3c625480",
+    "answer": "0",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "8f2014815c38046ebbfffe3ac4f3f41c"
+  },
+  {
+    "ref": "ans_9a8bc670-680e-43fe-b487-6464fcaed9d5",
+    "keyword": "ans_918eb9eb-7c9d-4048-8d7f-2db293489d8d",
+    "answer": "Adjunte la foto 3\nDe lo contrario envíe \"0\".",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "3bcff72a048ffc4583f3e5afff7bcc6c",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "cb5d4947-a7c3-4b58-9f36-05d7a18241ff",
+    "keyword": "3bcff72a048ffc4583f3e5afff7bcc6c",
+    "answer": "0",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "8f2014815c38046ebbfffe3ac4f3f41c"
+  },
+  {
+    "ref": "ans_e4286bb5-8129-48e2-97a9-516b12364c02",
+    "keyword": "ans_9a8bc670-680e-43fe-b487-6464fcaed9d5",
+    "answer": "Que nivel de urgencia le daria a este ticket\n1. Bajo\n2. Medio\n3. Alto",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "033c2188d0935f1583c7a6fd103eaf2d",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "50e52322-6630-4664-bbda-a726334778db",
+    "keyword": "033c2188d0935f1583c7a6fd103eaf2d",
+    "answer": "1",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_646c6d35-a516-4016-9505-d76d8a5c39c3",
+    "keyword": "ans_e4286bb5-8129-48e2-97a9-516b12364c02",
+    "answer": "Elija la opcion deseada\n1. Enviar ticket\n2. Cancelar ticket",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "8274aa6a27ce5e39775d47325ecce100",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "d0680d64-60cf-4ade-b666-1273a535e50e",
+    "keyword": "8274aa6a27ce5e39775d47325ecce100",
+    "answer": "1",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "3c84d7fe-aa06-44b6-8c53-05c7a8335053",
+    "answer": "Gracias por comunicarse con nosotros.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "5493512275549",
+    "refSerialize": "8a960e0c83d1b3941cac38ae22fa69f7"
+  },
+  {
+    "ref": "d6dfba6a-74e1-45f5-8748-8dfc82fc283a",
+    "keyword": "290236b1d481a790a200ea6e94b2122a",
+    "answer": "sigesbot",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "c5ec9969bd663945d9b54dda57567456"
+  },
+  {
+    "ref": "ans_1ccac445-10b2-46b5-9e4a-79abb62b3130",
+    "keyword": "key_a4c7fd3a-39db-49ca-89d8-a25b7aebf1b4",
+    "answer": "Gracias por comunicarte con Sistema SIGES.\nElija el numero de la opción deseada\n1. Generar un ticket de soporte\n2. Salir",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "457fa91ec80cfb2adb889c4020ad108a",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "a242d263-7d70-40f2-8d3a-9317e39e1973",
+    "keyword": "457fa91ec80cfb2adb889c4020ad108a",
+    "answer": "1",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_adfa8b94-b3cb-4e00-bbc5-4f2e1923fca2",
+    "keyword": "ans_1ccac445-10b2-46b5-9e4a-79abb62b3130",
+    "answer": "Elija desde donde necesita soporte\n1. YPF\n2. SHELL\n3. AXION\n4. PUMA\n5. GULF\n6. REFINOR\n7. EST. BLANCA\n8. OTRO",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "2e610c1029ed5aff622520f3117fb49c",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "0e5155c6-1cdc-4e76-a06c-2afea737e734",
+    "keyword": "2e610c1029ed5aff622520f3117fb49c",
+    "answer": "1",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_e2de01d4-1219-4972-9ad4-75a6280acbbd",
+    "keyword": "ans_adfa8b94-b3cb-4e00-bbc5-4f2e1923fca2",
+    "answer": "Elija en que area se encuentra el puesto de trabajo donde necesita soporte\n1. Playa\n2. Tienda\n3. Boxes\n4. Administracion",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b488461a72ff6adc35d2799c9eab3f8d",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "1998c119-30da-48db-9ca3-a8b111aeb9c4",
+    "keyword": "b488461a72ff6adc35d2799c9eab3f8d",
+    "answer": "1",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "6f0e10b7-51bd-479d-b9c3-9703c2cff734",
+    "answer": "Ingrese su numero de APIES",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "5493512275549",
+    "refSerialize": "d202b3efcd804f64d23682b367dc2ffc"
+  },
+  {
+    "ref": "ans_89666ed0-e914-4a85-a7d0-b6ab26587483",
+    "keyword": "ans_e2de01d4-1219-4972-9ad4-75a6280acbbd",
+    "answer": "Si no lo conoce, solicitarlo a un operador de SIGES",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "c268cb48fec18ddcbbc26cf225b2fef0",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "75308afb-d5f6-468f-8577-1fb4252be12c",
+    "keyword": "c268cb48fec18ddcbbc26cf225b2fef0",
+    "answer": "4288",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "45a3fd0e1fbdf3726e38252939078e99"
+  },
+  {
+    "ref": "ans_b64e4634-a1ad-4649-9130-39c6450e703d",
+    "keyword": "ans_89666ed0-e914-4a85-a7d0-b6ab26587483",
+    "answer": "Verificando",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "3e2ea16bf574bd0c7002af614333a451",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "7566f7de-b5e4-40be-9e4a-316c95e13c5b",
+    "answer": "Elija el número del puesto de trabajo donde necesita soporte",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "5493512275549",
+    "refSerialize": "cfd15b0f4b31581a0fdb18ea65e0a469"
+  },
+  {
+    "ref": "f14ec2de-d21d-4da1-a4cf-bf8a0c9b8035",
+    "answer": "Si no lo sabe o ninguno es correcto, envíe \"0\"",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "5493512275549",
+    "refSerialize": "302938d4cef96e953cbddc92b7917c46"
+  },
+  {
+    "ref": "99d7c556-7bf0-43cc-9908-f71535c32988",
+    "answer": "1 - PLAYA MULETO PDV10 ",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "5493512275549",
+    "refSerialize": "b5dc89041d397e0a4369362ad01aa642"
+  },
+  {
+    "ref": "f8084d9b-842f-490b-a535-2b5ba03cb46d",
+    "answer": "2 - PLAYA PDV11 TM900",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "5493512275549",
+    "refSerialize": "45cd25aed5bb15e60769948a38754880"
+  },
+  {
+    "ref": "9e78d031-dd82-403b-b5bd-b05aa08f955d",
+    "answer": "3 - Playa pdv-10",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "5493512275549",
+    "refSerialize": "0724c524b50ff5800ad8bd2fa5efde3f"
+  },
+  {
+    "ref": "382b128c-9edf-42dd-b4d1-8ea928264058",
+    "keyword": "3e2ea16bf574bd0c7002af614333a451",
+    "answer": "1",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_f1f36a11-71fc-419e-baf8-05869fb275f3",
+    "keyword": "ans_b64e4634-a1ad-4649-9130-39c6450e703d",
+    "answer": "Elija el numero del problema que tiene\n1. Despachos CIO\n2. Aplicaciones\n3. Impresora Fiscal / Comandera\n4. Impresora Común / Oficina\n5. Sistema SIGES\n6. Libro IVA\n7. Servidor",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [
+        {
+          "ref": "key_de6aa4a0-a9eb-4d52-9aa7-d70bc6ce6f59",
+          "keyword": "5",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "660d6f380cd3d2aa67431f161ba4eccf"
+        },
+        {
+          "ref": "ans_cd4727ee-aeaa-496d-a8c0-6017dbdec256",
+          "keyword": "key_de6aa4a0-a9eb-4d52-9aa7-d70bc6ce6f59",
+          "answer": "Elija el origen del problema\n1. Facturación\n2. Cierre de turno\n3. Informes\n4. Otro",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "ecc1fe0b603a80400f29850ee713e1e5"
+        },
+        {
+          "ref": "ans_89263e95-7f91-42b3-9f61-1b5dc6ab4782",
+          "keyword": "ans_cd4727ee-aeaa-496d-a8c0-6017dbdec256",
+          "answer": "Describa el problema por escrito o adjunte un AUDIO",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "093240bc3aa6472d812345d7e794d7c7"
+        },
+        {
+          "ref": "ans_a15f1e50-2673-4ebd-abd3-edab3e3478dc",
+          "keyword": "ans_89263e95-7f91-42b3-9f61-1b5dc6ab4782",
+          "answer": "Si desea, puede adjuntar hasta 3 fotos\nAdjunte la foto 1\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "78dba70d2b804bee6540b647872a6f5a"
+        },
+        {
+          "ref": "ans_c65fdae7-d602-44ea-92d3-4d9cd9eba25c",
+          "keyword": "ans_a15f1e50-2673-4ebd-abd3-edab3e3478dc",
+          "answer": "Adjunte la foto 2\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "b0895fb69db5ad7cfa4bc326e5d26e05"
+        },
+        {
+          "ref": "ans_4933499f-3edf-4669-9593-1eaa94b362d9",
+          "keyword": "ans_c65fdae7-d602-44ea-92d3-4d9cd9eba25c",
+          "answer": "Adjunte la foto 3\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "8801a5f62a7ddad21affe189835b10e9"
+        },
+        {
+          "ref": "ans_ff2833d3-2ebb-4c73-b540-29c2f3e7c82c",
+          "keyword": "ans_4933499f-3edf-4669-9593-1eaa94b362d9",
+          "answer": "Que nivel de urgencia le daria a este ticket\n1. Bajo\n2. Medio\n3. Alto",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "36a81ace989017fe2b6d5e68ab364184"
+        },
+        {
+          "ref": "ans_b1f355d2-cbc0-4f75-89a0-8f317baadf57",
+          "keyword": "ans_ff2833d3-2ebb-4c73-b540-29c2f3e7c82c",
+          "answer": "Elija la opcion deseada\n1. Enviar ticket\n2. Cancelar ticket",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "3e96965ea3d50eb3c55ef41652ab061d"
+        },
+        {
+          "ref": "key_28a542ae-ef05-4f47-9b63-69b4cc945e5d",
+          "keyword": "3",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "741cd7b8654e06cc47783fa3ba233c53"
+        },
+        {
+          "ref": "ans_54a4a06c-0a12-4ec7-8a3b-860c096e8a04",
+          "keyword": "key_28a542ae-ef05-4f47-9b63-69b4cc945e5d",
+          "answer": "Elija la opcion deseada\n1. Soporte para impresora fiscal\n2. Instalar una impresora fiscal",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "d200b939c2a601f40f551bd3982495fe"
+        },
+        {
+          "ref": "ans_fa94c609-60e4-4634-91e6-3a7ce8bcccbc",
+          "keyword": "ans_54a4a06c-0a12-4ec7-8a3b-860c096e8a04",
+          "answer": "Aqui puede agregar informacion. Si conoce marca / modelo de impresora y/o si se encuentra conectada y con que tipo de cable, indiquelo.\nEscriba o envie un AUDIO\nDe lo contrario escriba NO",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "9b74ac2f8b2332a69cbefc221944066c"
+        },
+        {
+          "ref": "ans_1a9a1fe4-ae49-4621-9d60-b71ceee27e4e",
+          "keyword": "ans_fa94c609-60e4-4634-91e6-3a7ce8bcccbc",
+          "answer": "Si desea, puede adjuntar hasta 3 fotos\nAdjunte la foto 1\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "a8c21f4e9f1c1df4469b81a0d1deac48"
+        },
+        {
+          "ref": "ans_283e54c6-0506-4451-9ad7-c15181658f48",
+          "keyword": "ans_1a9a1fe4-ae49-4621-9d60-b71ceee27e4e",
+          "answer": "Adjunte la foto 2\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "51a1567fe7ace2112a027fc41970fcfa"
+        },
+        {
+          "ref": "ans_7d9d0bbe-a8ef-4fec-81de-deb3636a41b5",
+          "keyword": "ans_283e54c6-0506-4451-9ad7-c15181658f48",
+          "answer": "Adjunte la foto 3\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "6a29360e63699c286c68124f2eef0c98"
+        },
+        {
+          "ref": "ans_1ed286f4-171e-40e7-966e-8afc9d8472d1",
+          "keyword": "ans_7d9d0bbe-a8ef-4fec-81de-deb3636a41b5",
+          "answer": "Que nivel de urgencia le daria a este ticket\n1. Bajo\n2. Medio\n3. Alto",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "e213f1d3905d2048e787aeafde7585c4"
+        },
+        {
+          "ref": "ans_12b59037-5f96-4760-be74-590e5f0d3549",
+          "keyword": "ans_1ed286f4-171e-40e7-966e-8afc9d8472d1",
+          "answer": "Elija la opcion deseada\n1. Enviar ticket\n2. Cancelar ticket",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "37f224a3a7050551040c81c2d39bc211"
+        },
+        {
+          "ref": "key_5841f586-5c26-404a-bae5-b7861ed415e6",
+          "keyword": "4",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "fc09f52170be47fcb14a1cee9c5d3c52"
+        },
+        {
+          "ref": "ans_24c12aa8-bd58-4418-9c0c-0ec761377fd1",
+          "keyword": "key_5841f586-5c26-404a-bae5-b7861ed415e6",
+          "answer": "Elija la opcion deseada\n1. Soporte para impresora\n2. Instalar una impresora",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "dba83a379ccffa770c074cc04d2b1909"
+        },
+        {
+          "ref": "ans_c2fc5f62-5d43-4af3-891b-0768159f8d20",
+          "keyword": "ans_24c12aa8-bd58-4418-9c0c-0ec761377fd1",
+          "answer": "Aqui puede agregar informacion. Si conoce marca / modelo de impresora y/o si se encuentra conectada, indiquelo.\nEscriba o envie un AUDIO\nDe lo contrario escriba NO",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "00d72cd34cb24a77d79417c8768211e6"
+        },
+        {
+          "ref": "ans_373dd0db-10b9-4673-9e57-7829ac33029d",
+          "keyword": "ans_c2fc5f62-5d43-4af3-891b-0768159f8d20",
+          "answer": "Si desea, puede adjuntar hasta 3 fotos\nAdjunte la foto 1\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "a931a6547c658ec40dcee716700d87fb"
+        },
+        {
+          "ref": "ans_7823db89-d2fc-4596-88cf-e0079ad8f06d",
+          "keyword": "ans_373dd0db-10b9-4673-9e57-7829ac33029d",
+          "answer": "Adjunte la foto 2\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "c17117468ccbfc16ab74e812d08664de"
+        },
+        {
+          "ref": "ans_bf915bec-828f-4064-868b-5671bef9c8f0",
+          "keyword": "ans_7823db89-d2fc-4596-88cf-e0079ad8f06d",
+          "answer": "Adjunte la foto 3\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "06b4cf3376a5a8f6b88886960adf0974"
+        },
+        {
+          "ref": "ans_b15daf5c-794c-46a2-94d4-8cfa84b0a215",
+          "keyword": "ans_bf915bec-828f-4064-868b-5671bef9c8f0",
+          "answer": "Que nivel de urgencia le daria a este ticket\n1. Bajo\n2. Medio\n3. Alto",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "2f69d0bf994c9d51872ff2f4f5f26624"
+        },
+        {
+          "ref": "ans_748bbe3d-f5e7-40ae-985f-fed91d2b43f4",
+          "keyword": "ans_b15daf5c-794c-46a2-94d4-8cfa84b0a215",
+          "answer": "Elija la opcion deseada\n1. Enviar ticket\n2. Cancelar ticket",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "078b8d4493226f027b0f5e05488da291"
+        },
+        {
+          "ref": "key_d231ee17-de9e-4155-8a80-b864f0ab79e8",
+          "keyword": "1",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "065e0005da6e5c278a53691e53b48955"
+        },
+        {
+          "ref": "ans_7e1ee269-3e8c-4518-b3c0-aaaac830a0b6",
+          "keyword": "key_d231ee17-de9e-4155-8a80-b864f0ab79e8",
+          "answer": "Describa el problema por escrito o adjunte un AUDIO",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "d98ca342a7147660c3058e4a17752bdb"
+        },
+        {
+          "ref": "ans_f033b6b7-55c0-43c4-bf84-58ff136ed371",
+          "keyword": "ans_7e1ee269-3e8c-4518-b3c0-aaaac830a0b6",
+          "answer": "Si desea, puede adjuntar hasta 3 fotos\nAdjunte la foto 1\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "f820b313c7017a36c48b13348232fe60"
+        },
+        {
+          "ref": "ans_918eb9eb-7c9d-4048-8d7f-2db293489d8d",
+          "keyword": "ans_f033b6b7-55c0-43c4-bf84-58ff136ed371",
+          "answer": "Adjunte la foto 2\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "fa60a77a0838b4f06bd4e51d3c625480"
+        },
+        {
+          "ref": "ans_9a8bc670-680e-43fe-b487-6464fcaed9d5",
+          "keyword": "ans_918eb9eb-7c9d-4048-8d7f-2db293489d8d",
+          "answer": "Adjunte la foto 3\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "3bcff72a048ffc4583f3e5afff7bcc6c"
+        },
+        {
+          "ref": "ans_e4286bb5-8129-48e2-97a9-516b12364c02",
+          "keyword": "ans_9a8bc670-680e-43fe-b487-6464fcaed9d5",
+          "answer": "Que nivel de urgencia le daria a este ticket\n1. Bajo\n2. Medio\n3. Alto",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "033c2188d0935f1583c7a6fd103eaf2d"
+        },
+        {
+          "ref": "ans_646c6d35-a516-4016-9505-d76d8a5c39c3",
+          "keyword": "ans_e4286bb5-8129-48e2-97a9-516b12364c02",
+          "answer": "Elija la opcion deseada\n1. Enviar ticket\n2. Cancelar ticket",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "8274aa6a27ce5e39775d47325ecce100"
+        },
+        {
+          "ref": "key_19d51e0c-7cad-4b30-bc31-398813140c95",
+          "keyword": "7",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "d557e5600097df00d97951283f83f6bd"
+        },
+        {
+          "ref": "ans_e8afa293-5874-4bb2-ae81-acd36881a6ca",
+          "keyword": "key_19d51e0c-7cad-4b30-bc31-398813140c95",
+          "answer": "Describa el problema por escrito o adjunte un AUDIO",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "9be20c2d34c5f9388bd01a2d23746ca8"
+        },
+        {
+          "ref": "ans_5d825385-659d-44e1-a031-5395a2d4368b",
+          "keyword": "ans_e8afa293-5874-4bb2-ae81-acd36881a6ca",
+          "answer": "Si desea, puede adjuntar hasta 3 fotos\nAdjunte la foto 1\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "de8a703af30d710809b911def25bab06"
+        },
+        {
+          "ref": "ans_3d6dc94e-adc5-4c32-a757-5e10a380dd06",
+          "keyword": "ans_5d825385-659d-44e1-a031-5395a2d4368b",
+          "answer": "Adjunte la foto 2\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "30be168d313c1d94092d62fb72f520dc"
+        },
+        {
+          "ref": "ans_f0c85dd8-a0b4-4877-88a1-5d255682ceff",
+          "keyword": "ans_3d6dc94e-adc5-4c32-a757-5e10a380dd06",
+          "answer": "Adjunte la foto 3\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "4d1a2996af335f8d205b0cf6820b21ac"
+        },
+        {
+          "ref": "ans_bdd23487-b36a-4c08-a382-eccc685dcb3a",
+          "keyword": "ans_f0c85dd8-a0b4-4877-88a1-5d255682ceff",
+          "answer": "Que nivel de urgencia le daria a este ticket\n1. Bajo\n2. Medio\n3. Alto",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "f7201acff24e12309d498b0bd1fcc068"
+        },
+        {
+          "ref": "ans_0e1233ea-b42a-4df5-9182-be09c5752f5b",
+          "keyword": "ans_bdd23487-b36a-4c08-a382-eccc685dcb3a",
+          "answer": "Elija la opcion deseada\n1. Enviar ticket\n2. Cancelar ticket",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "0115cd0a6cb315993027495856f60874"
+        },
+        {
+          "ref": "key_d6402fcd-9e04-48bb-9355-763391fec158",
+          "keyword": "6",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "ae093091123de34d8570657f16bd7343"
+        },
+        {
+          "ref": "ans_2612c4d1-cbca-4d23-9147-a182a8dee7e9",
+          "keyword": "key_d6402fcd-9e04-48bb-9355-763391fec158",
+          "answer": "Elija donde se encuentra el inconveniente\n1. Libro IVA Compra\n2. Libro IVA Venta",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "06f09e0ffab96f321c94126a04270c69"
+        },
+        {
+          "ref": "ans_534cec16-17c6-403e-bcfc-e3dc28c33f2f",
+          "keyword": "ans_2612c4d1-cbca-4d23-9147-a182a8dee7e9",
+          "answer": "Indique el período en el cual hay un inconveniente",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "4bcab1f3e76265c62df39ce099418b86"
+        },
+        {
+          "ref": "ans_9f70ce46-d951-4fdc-a123-c11e84f66c9c",
+          "keyword": "ans_534cec16-17c6-403e-bcfc-e3dc28c33f2f",
+          "answer": "Describa el problema por escrito o adjunte un AUDIO",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "398df31fb837e439703bf57e24e75670"
+        },
+        {
+          "ref": "ans_d54c2044-04f7-44c8-a6b2-3d982fcdf61b",
+          "keyword": "ans_9f70ce46-d951-4fdc-a123-c11e84f66c9c",
+          "answer": "Si desea, puede adjuntar hasta 3 fotos\nAdjunte la foto 1\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "ac65c54479a3bfdde12ec2e94135c6e1"
+        },
+        {
+          "ref": "ans_daa298ec-98bb-4f27-995c-70384081e576",
+          "keyword": "ans_d54c2044-04f7-44c8-a6b2-3d982fcdf61b",
+          "answer": "Adjunte la foto 2\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "dff99ec848a92d3ee6850129e6f12486"
+        },
+        {
+          "ref": "ans_6328364f-f407-464d-bdb4-2faf3335ef8e",
+          "keyword": "ans_daa298ec-98bb-4f27-995c-70384081e576",
+          "answer": "Adjunte la foto 3\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "39b1c3875348e0d490a96ff338c96b83"
+        },
+        {
+          "ref": "ans_7e13fa4b-bf55-42ca-b2d5-f6fb20ccefed",
+          "keyword": "ans_6328364f-f407-464d-bdb4-2faf3335ef8e",
+          "answer": "Que nivel de urgencia le daria a este ticket\n1. Bajo\n2. Medio\n3. Alto",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "a873e42299aea816bd24f1fa1ec47420"
+        },
+        {
+          "ref": "ans_a9be723c-c82f-4824-978f-8def039f5ff6",
+          "keyword": "ans_7e13fa4b-bf55-42ca-b2d5-f6fb20ccefed",
+          "answer": "Elija la opcion deseada\n1. Enviar ticket\n2. Cancelar ticket",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "b2eb9b77a12107748c6a3201b4c5edce"
+        },
+        {
+          "ref": "key_54d21bbb-b251-4bcc-88d4-30b9d55a2421",
+          "keyword": "2",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "900c9aa0094bfcca4a316ec66236e2fc"
+        },
+        {
+          "ref": "ans_7e84a3a8-e9fa-46e2-ad2d-c11f358c9933",
+          "keyword": "key_54d21bbb-b251-4bcc-88d4-30b9d55a2421",
+          "answer": "Elija en que aplicación esta teniendo el inconveniente\n1. App YPF\n2. Mercado Pago\n3. Todas las aplicaciones",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "c523ca095ae58f307734b7a0f72fb7e4"
+        },
+        {
+          "ref": "ans_945d00f6-e452-4ac0-8269-84921da1273c",
+          "keyword": "ans_7e84a3a8-e9fa-46e2-ad2d-c11f358c9933",
+          "answer": "Describa el problema por escrito o adjunte un AUDIO",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "f51bc2a6fb76117cc22cdf2798ae29a9"
+        },
+        {
+          "ref": "ans_d3f78187-5497-4d50-a51a-bd7dac6b86cd",
+          "keyword": "ans_945d00f6-e452-4ac0-8269-84921da1273c",
+          "answer": "Si desea, puede adjuntar hasta 3 fotos\nAdjunte la foto 1\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "ec76f7e337ab6bfae9b647c7c14d4467"
+        },
+        {
+          "ref": "ans_96b072d4-c078-4328-af3a-4996a57193cd",
+          "keyword": "ans_d3f78187-5497-4d50-a51a-bd7dac6b86cd",
+          "answer": "Adjunte la foto 2\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "30ec82bdd9c7b28f2526a113b194295c"
+        },
+        {
+          "ref": "ans_2163f9cd-2d93-4ee2-af3b-189ab73893f7",
+          "keyword": "ans_96b072d4-c078-4328-af3a-4996a57193cd",
+          "answer": "Adjunte la foto 3\nDe lo contrario envíe \"0\".",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "54c3dbb5b7f1e91db38f29f659f4a5f5"
+        },
+        {
+          "ref": "ans_35087b1f-5d3c-413e-9171-27168080b185",
+          "keyword": "ans_2163f9cd-2d93-4ee2-af3b-189ab73893f7",
+          "answer": "Que nivel de urgencia le daria a este ticket\n1. Bajo\n2. Medio\n3. Alto",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "b70a79ab2042061598d6bc0b90b31815"
+        },
+        {
+          "ref": "ans_f607a0e5-6975-4858-9c4d-32c167ce2792",
+          "keyword": "ans_35087b1f-5d3c-413e-9171-27168080b185",
+          "answer": "Elija la opcion deseada\n1. Enviar ticket\n2. Cancelar ticket",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "a20da83752677a6f68be812c99070572"
+        }
+      ],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "c8aac429d3355a4590fca973cfb7b21d",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "4d8cf0ed-726b-4ee8-89e8-b3b117579d0e",
+    "keyword": "c8aac429d3355a4590fca973cfb7b21d",
+    "answer": "1",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_7e1ee269-3e8c-4518-b3c0-aaaac830a0b6",
+    "keyword": "key_d231ee17-de9e-4155-8a80-b864f0ab79e8",
+    "answer": "Describa el problema por escrito o adjunte un AUDIO",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "d98ca342a7147660c3058e4a17752bdb",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "cecdc981-970c-4ca8-8156-5dbcc99f10cd",
+    "keyword": "d98ca342a7147660c3058e4a17752bdb",
+    "answer": "0",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "8f2014815c38046ebbfffe3ac4f3f41c"
+  },
+  {
+    "ref": "ans_f033b6b7-55c0-43c4-bf84-58ff136ed371",
+    "keyword": "ans_7e1ee269-3e8c-4518-b3c0-aaaac830a0b6",
+    "answer": "Si desea, puede adjuntar hasta 3 fotos\nAdjunte la foto 1\nDe lo contrario envíe \"0\".",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f820b313c7017a36c48b13348232fe60",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "2450cdf1-d5ef-4321-baba-4b241c396e49",
+    "keyword": "f820b313c7017a36c48b13348232fe60",
+    "answer": "0",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "8f2014815c38046ebbfffe3ac4f3f41c"
+  },
+  {
+    "ref": "ans_918eb9eb-7c9d-4048-8d7f-2db293489d8d",
+    "keyword": "ans_f033b6b7-55c0-43c4-bf84-58ff136ed371",
+    "answer": "Adjunte la foto 2\nDe lo contrario envíe \"0\".",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "fa60a77a0838b4f06bd4e51d3c625480",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "93e53b12-8d27-413f-9759-ad3e14cdb71c",
+    "keyword": "fa60a77a0838b4f06bd4e51d3c625480",
+    "answer": "0",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "8f2014815c38046ebbfffe3ac4f3f41c"
+  },
+  {
+    "ref": "ans_9a8bc670-680e-43fe-b487-6464fcaed9d5",
+    "keyword": "ans_918eb9eb-7c9d-4048-8d7f-2db293489d8d",
+    "answer": "Adjunte la foto 3\nDe lo contrario envíe \"0\".",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "3bcff72a048ffc4583f3e5afff7bcc6c",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "cf85634c-dfc2-4e68-932c-dffa944d6ba2",
+    "keyword": "3bcff72a048ffc4583f3e5afff7bcc6c",
+    "answer": "0",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "8f2014815c38046ebbfffe3ac4f3f41c"
+  },
+  {
+    "ref": "ans_e4286bb5-8129-48e2-97a9-516b12364c02",
+    "keyword": "ans_9a8bc670-680e-43fe-b487-6464fcaed9d5",
+    "answer": "Que nivel de urgencia le daria a este ticket\n1. Bajo\n2. Medio\n3. Alto",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "033c2188d0935f1583c7a6fd103eaf2d",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "2eb9c90c-5d83-403e-865e-ea8f3ca005d2",
+    "keyword": "033c2188d0935f1583c7a6fd103eaf2d",
+    "answer": "1",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_646c6d35-a516-4016-9505-d76d8a5c39c3",
+    "keyword": "ans_e4286bb5-8129-48e2-97a9-516b12364c02",
+    "answer": "Elija la opcion deseada\n1. Enviar ticket\n2. Cancelar ticket",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "8274aa6a27ce5e39775d47325ecce100",
+    "from": "5493512275549"
+  },
+  {
+    "ref": "afae5c9e-6366-4768-8071-ff0a9db3c5ac",
+    "keyword": "8274aa6a27ce5e39775d47325ecce100",
+    "answer": "1",
+    "options": {},
+    "from": "5493512275549",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "b414c2a6-d96a-47cb-9746-bce6da82a123",
+    "answer": "Gracias por comunicarse con nosotros.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "5493512275549",
+    "refSerialize": "8a960e0c83d1b3941cac38ae22fa69f7"
+  }
+]
